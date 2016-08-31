@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src = "canvas.js"></script>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <p>Before canvas.</p>
+<canvas width="1000" height="1000"></canvas>
+<p>After canvas.</p>
+<script>
+var canvas = document.querySelector("canvas");
+var context = canvas.getContext("2d");
+
+var cx = document.querySelector("canvas").getContext("2d");
+ cx.beginPath();
+ cx.moveTo(300, 0);
+ cx.lineTo(500, 500);
+ // cx.lineTo(100, 100);
+ // cx.closePath();
+ cx.stroke();
+</script>
+  </body>
+</html>
