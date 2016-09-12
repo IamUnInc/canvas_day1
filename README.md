@@ -9,3 +9,5 @@ I'm thinking that I need to add a way to save various bikes per customer with th
 Still playing with the possibility for adding quanitative adjustments to the visual display. No real progress made.
 
 Playing with bikes on canvas
+
+git is being a pain about merging
