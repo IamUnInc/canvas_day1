@@ -10,4 +10,4 @@ Still playing with the possibility for adding quanitative adjustments to the vis
 
 Playing with bikes on canvas
 
-git is being a pain about merging
+Its almost done.
