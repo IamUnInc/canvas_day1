@@ -10,4 +10,3 @@ Still playing with the possibility for adding quanitative adjustments to the vis
 
 Playing with bikes on canvas
 
-Finished
